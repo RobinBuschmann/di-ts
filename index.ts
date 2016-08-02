@@ -1,5 +1,3 @@
-/// <reference path="./di.d.ts"/>
-/// <reference path="./node_modules/reflect-metadata/reflect-metadata.d.ts"/>
 
 import 'reflect-metadata';
 import * as di from 'di'
