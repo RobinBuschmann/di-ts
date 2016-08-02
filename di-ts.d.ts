@@ -1,6 +1,4 @@
-
 /// <reference path="di.d.ts" />
-/// <reference path="node_modules/reflect-metadata/reflect-metadata.d.ts"/>
 
 declare module "di-ts" {
 
